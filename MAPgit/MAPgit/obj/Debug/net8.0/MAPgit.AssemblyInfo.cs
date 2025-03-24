@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MAPgit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b439b3b42e3656543e9a9532b97f0062ebfc17a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("MAPgit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MAPgit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

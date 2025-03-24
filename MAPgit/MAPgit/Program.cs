@@ -4,7 +4,22 @@
     {
         static void Main(string[] args)
         {
-            //Holis este programa es muy complejo y tiene muchas cositas
+            //HOLA ESTE ES TODO EL PROGRAMA :)
+            #region AMOGUS
+            /*
+ . 　　　。　　　　•　 　ﾟ　　。 　　.
+
+　　　.　　　 　　.　　　　　。　　 。　. 　
+
+.　　 。　　　• . 　　 • 　　　　•
+
+　　ﾟ　　 Red was not An Impostor.　 ඞ。　.
+
+　　'　　　 1 Impostor remains 　 　　。
+
+　　ﾟ　　　.　　　. 　　　　.　 . 
+             */
+            #endregion
         }
     }
 }
