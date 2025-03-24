@@ -1,0 +1,14 @@
+C:\Users\yosoy\OneDrive\Escritorio\MAPgit\MAPgit\MAPgit\bin\Debug\net8.0\MAPgit.exe
+C:\Users\yosoy\OneDrive\Escritorio\MAPgit\MAPgit\MAPgit\bin\Debug\net8.0\MAPgit.deps.json
+C:\Users\yosoy\OneDrive\Escritorio\MAPgit\MAPgit\MAPgit\bin\Debug\net8.0\MAPgit.runtimeconfig.json
+C:\Users\yosoy\OneDrive\Escritorio\MAPgit\MAPgit\MAPgit\bin\Debug\net8.0\MAPgit.dll
+C:\Users\yosoy\OneDrive\Escritorio\MAPgit\MAPgit\MAPgit\bin\Debug\net8.0\MAPgit.pdb
+C:\Users\yosoy\OneDrive\Escritorio\MAPgit\MAPgit\MAPgit\obj\Debug\net8.0\MAPgit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yosoy\OneDrive\Escritorio\MAPgit\MAPgit\MAPgit\obj\Debug\net8.0\MAPgit.AssemblyInfoInputs.cache
+C:\Users\yosoy\OneDrive\Escritorio\MAPgit\MAPgit\MAPgit\obj\Debug\net8.0\MAPgit.AssemblyInfo.cs
+C:\Users\yosoy\OneDrive\Escritorio\MAPgit\MAPgit\MAPgit\obj\Debug\net8.0\MAPgit.csproj.CoreCompileInputs.cache
+C:\Users\yosoy\OneDrive\Escritorio\MAPgit\MAPgit\MAPgit\obj\Debug\net8.0\MAPgit.dll
+C:\Users\yosoy\OneDrive\Escritorio\MAPgit\MAPgit\MAPgit\obj\Debug\net8.0\refint\MAPgit.dll
+C:\Users\yosoy\OneDrive\Escritorio\MAPgit\MAPgit\MAPgit\obj\Debug\net8.0\MAPgit.pdb
+C:\Users\yosoy\OneDrive\Escritorio\MAPgit\MAPgit\MAPgit\obj\Debug\net8.0\MAPgit.genruntimeconfig.cache
+C:\Users\yosoy\OneDrive\Escritorio\MAPgit\MAPgit\MAPgit\obj\Debug\net8.0\ref\MAPgit.dll
